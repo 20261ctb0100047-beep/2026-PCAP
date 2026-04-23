@@ -12,4 +12,4 @@ Estudante: Exemplo fornecido pelo profe. berssa
 
 # print() é o comando de saída em python
 # Equivalente ao bloco " diga..." do scrath
-print('Hello World!').
+print('Hello World!')
